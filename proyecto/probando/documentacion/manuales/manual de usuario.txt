@@ -1,0 +1,24 @@
+Bienvenido al manual de usuario de la web!
+
+Al entrar a la pagina te encuentras con una "Landing Page" que seria el inicio, en el cual te encotraras con una bienvenida y 
+una Navbar la cual incluye botones con links a las diferentes subpaginas.
+Al scrollear iras viendo diferentes secciones del inicio, 
+econtrandote con informacion general del club, partidos proximos que tendra el equipo, y llegando al final, se encontrara 2 cards de las camisetas 
+presentadas para la temporada que utilizara el club con una animacion simple.
+
+Moviendonos a la siguiente pagina desde el Navbar, entraremos a la parte de los Jugadores, donde se veran en un primer plano los jugadores
+puestos en una cancha estilo formacion, mostrandonos como sera la formacion del equipo y viendo la posicion que jugara cada jugador. 
+Al hacer click en la imagen de cualquier jugador, se abrira un Modal con un efecto transparencia, y se mostrara distinta informacion 
+sobre el jugador en el que se de click (nombre y apellido, fecha de nacimiento, informacion general).
+
+Debajo de la formacion de los jugadores, podremos ver un boton de banca, que al hacer click, abrira un modal desde la parte inferior con todos los jugadores 
+que esten en la banca (brindando variedad de inforamcion).
+
+En el siguiente boton del Navbar, tendremos la parte de contacto, la cual contara con un formulario para poder contactarse con la administracion del equipo 
+en caso de necesitarse.
+
+Por ultimo, siguiendo el order del Navbar, veremos el boton de noticias, que para el cual pueda accederse, se debera completar con un formulario de 
+registracion en caso de no tener ya creada una cuenta. Y al completar ese formulario correctamente, podremos acceder a la seccion de noticias.
+En esta se mostraran en un primer plano 2 noticias en grande (independientemente de que categoria sean), y al lado derecho de las mismas,
+se cargaran distintas noticias con una pequeña imagen, titulo y categoria, que al hacer un click, abrira un modal independiente a cada noticias
+que se agregue a la pagina.
