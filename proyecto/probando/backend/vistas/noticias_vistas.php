@@ -261,7 +261,7 @@ $rutaPagina = "noticias";
 					<tr>
 						<td colspan="8">
 							<ul class="pagination conteiner center">
-								<li class="waves-effect"><a href="index.php?r=<?=$rutaPagina?>&pagina=<?=$paginaAnterior?>&buscador=<?=$buscar?>" class=""><i class="material-icons white-text">chevron_left</i></a></li>									
+								<li class="waves-effect"><a href="index.php?r=<?=$rutaPagina?>&pagina=<?=$paginaAnterior?>&buscador=<?=$buscar?>" class=""><i class="material-icons white-text">chevron_left</i></a></li>
 				<?php
 					for($i = 1; $i <= $totalMaximo; $i++){
 						$class = "waves-effect";
