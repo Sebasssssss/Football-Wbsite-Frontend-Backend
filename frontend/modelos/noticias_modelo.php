@@ -118,21 +118,5 @@
 			$lista = $this->traerListado($sql);
 			return $lista;
 		}
-
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
 	}
-
 ?>

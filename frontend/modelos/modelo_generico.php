@@ -145,9 +145,4 @@ class modelo_generico{
 	}
 
 }
-
-
-
-
-
 ?>
